@@ -38,6 +38,8 @@ Key characteristics:
   - Line (I)
   - L-shape (L)
   - J-shape (J)
+  <img width="378" alt="image" src="https://github.com/user-attachments/assets/f57acd09-0ec0-4051-95d6-c0edbbfc9913">
+
 - Handles piece placement with consideration for collisions and grid boundaries.
 - Efficiently checks for full rows and clears them without handling cascading clears.
 - Command-line visualization option to display the grid after each piece is dropped (useful for debugging).
