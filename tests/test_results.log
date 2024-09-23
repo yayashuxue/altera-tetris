@@ -1,3 +1,67 @@
 Test Results:
 =============
 
+Test: test_max_height
+  Optimized Version:
+    Time: 13.8628 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Status: Timed out after 30 seconds.
+  Outputs Match: No
+
+Test: test_random_large
+  Optimized Version:
+    Time: 0.1203 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Time: 0.1110 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Outputs Match: Yes
+
+Test: test_sample_input
+  Optimized Version:
+    Time: 0.1023 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Time: 0.1582 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Outputs Match: Yes
+
+Test: test_complex_row_clear
+  Optimized Version:
+    Time: 0.0747 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Time: 0.1449 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Outputs Match: Yes
+
+Test: test_out_of_bounds
+  Optimized Version:
+    Time: 0.0848 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Time: 0.2761 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Outputs Match: Yes
+
+Test: test_full_row_clear
+  Optimized Version:
+    Time: 0.0957 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Benchmark Version:
+    Time: 0.0617 seconds
+    Memory: 1016721408 KB
+    Errors: None
+  Outputs Match: Yes
+
